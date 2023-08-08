@@ -15,3 +15,4 @@ Lover of Technology and coding :heart:
 - Thanks for visiting. 
 
 - Enjoy it!! o/
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
