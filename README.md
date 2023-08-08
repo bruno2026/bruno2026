@@ -1,5 +1,3 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
-
 # Welcome!
 
 ## I'm Bruno Gomes! Let me present a little about myself :D
