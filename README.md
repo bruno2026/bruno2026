@@ -2,7 +2,7 @@
 
 ## I'm Bruno Gomes! Let me present a little about myself :D
 
-Studying with full-stack focus in Javascript / NodeJs :robot:
+Working with NodeJS and JAVA a little for just over 4 years  :robot:
 
 Lover of Technology and coding :heart:
 
