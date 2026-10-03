@@ -1,10 +1,16 @@
-# Welcome!
+Hey there! 👋
 
-## I'm Bruno Gomes! Let me present a little about myself :D
+I'm Bruno.
 
-Working with NodeJS and JAVA a little for just over 4 years  :robot:
+🇧🇷 Brazilian | 🌎 Traveler | 🌿 Nature lover | 💻 Developer
 
-Lover of Technology and coding :heart:
+I'm the kind of person who gets excited about discovering new places, walking through a trail, taking a good photo or spending hours trying to understand how something works.
+
+I love technology, but there's much more than code.
+
+When I'm not behind a computer, you'll probably find me planning a trip, exploring somewhere new, enjoying nature or looking for the next adventure.
+
+Welcome to my GitHub! 🚀❤️
 
 ## About me 
 ![bruno2026 Status](https://github-readme-stats.vercel.app/api?username=bruno2026&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno2026&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
