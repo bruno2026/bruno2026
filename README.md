@@ -8,7 +8,7 @@ I'm the kind of person who gets excited about discovering new places, walking th
 
 I love technology, but there's much more than code.
 
-When I'm not behind a computer, you'll probably find me planning a trip, exploring somewhere new, enjoying nature or looking for the next track.
+When I'm not behind a computer, you'll probably find me planning a trip, exploring somewhere new, enjoying nature or looking for the next trail.
 
 Welcome to my GitHub! 🚀❤️
 
