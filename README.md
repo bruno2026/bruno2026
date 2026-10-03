@@ -2,13 +2,13 @@ Hey there! 👋
 
 I'm Bruno.
 
-🇧🇷 Brazilian | 🌎 Traveler | 🌿 Nature lover | 💻 Developer
+🇧🇷 Brazilian |🌿 Nature lover | 💻 Developer
 
 I'm the kind of person who gets excited about discovering new places, walking through a trail, taking a good photo or spending hours trying to understand how something works.
 
 I love technology, but there's much more than code.
 
-When I'm not behind a computer, you'll probably find me planning a trip, exploring somewhere new, enjoying nature or looking for the next adventure.
+When I'm not behind a computer, you'll probably find me planning a trip, exploring somewhere new, enjoying nature or looking for the next track.
 
 Welcome to my GitHub! 🚀❤️
 
