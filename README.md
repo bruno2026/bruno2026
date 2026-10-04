@@ -12,8 +12,7 @@ When I'm not behind a computer, you'll probably find me planning a trip, explori
 
 Welcome to my GitHub! 🚀❤️
 
-## About me 
-![bruno2026 Status](https://github-readme-stats.vercel.app/api?username=bruno2026&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno2026&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Contact
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/bruno2026)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/bruno-gomes-216564ba/)
